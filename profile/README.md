@@ -1,5 +1,7 @@
 ## Bad Bats 22462 
 
+We are an FTC Team from St. Petersburg
+
 <!--
 
 **Here are some ideas to get you started:**
